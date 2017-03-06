@@ -3,7 +3,6 @@
     "version": "0.1.6",
     "description": "optimize",
     "author": "Jade.Zhang",
-    "os": ["Windows", "Mac","Ubuntu"],
     "contributors": [
         "Jade.Zhang" 
     ],
